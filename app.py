@@ -63,6 +63,6 @@ else:
 
 st.markdown("---")
 st.markdown("""
-**🎓 Academic Contribution** *This tool was developed by **[Your Name]** as a free resource for the geological community and future students. 
+**🎓 Academic Contribution** *This tool was developed by SERHOUDJI Souhil Abderrahim as a free resource for the geological community and future students. 
 It is dedicated to the advancement of Digital Geosciences in Algeria.*
 """)
