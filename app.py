@@ -60,3 +60,9 @@ if uploaded_file:
         st.error(f"Error: Ensure columns are 'Puits', 'X', 'Y', 'Epais'. Details: {e}")
 else:
     st.info("💡 Hint: Download the sample file from the sidebar to test the app!")
+
+st.markdown("---")
+st.markdown("""
+**🎓 Academic Contribution** *This tool was developed by **[Your Name]** as a free resource for the geological community and future students. 
+It is dedicated to the advancement of Digital Geosciences in Algeria.*
+""")
